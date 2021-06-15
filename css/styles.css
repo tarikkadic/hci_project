@@ -23,15 +23,6 @@ body {
   margin: 0;
 }
 
-#coronavirus {
-  background-image: url("/assets/cov.png");
-  min-height: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
-}
-
 header::after {
   content: '';
   display: table;
